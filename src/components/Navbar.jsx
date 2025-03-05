@@ -8,7 +8,7 @@ const Navbar = () => {
   const [active, setActive] = useState('')
   return (
     <nav
-      className={`w-full flex items-center py-5 fixed top-0 z-20 bg-primary`}
+      className={`w-full flex items-center py-5 fixed top-0 z-20`}
     >
       <div className="navbar ">
         <div className="navbar-start">
